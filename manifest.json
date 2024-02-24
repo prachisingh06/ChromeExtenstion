@@ -1,0 +1,14 @@
+{
+    "name": "Dad Jokes",
+    "version":"0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "strawberry.png" 
+    },
+    "icons" :{
+        "128" :"strawberry.png"
+    },
+    "permissions":["activeTab"]
+
+}
